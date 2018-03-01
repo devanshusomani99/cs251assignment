@@ -11,3 +11,7 @@ int main (){
 void microkernel_sendmsg(char *a){
     printf("microkernel: %s\n", a);
 }
+
+void microkernel_getmsg(char *b){
+//TODO: getmsg feature
+}
